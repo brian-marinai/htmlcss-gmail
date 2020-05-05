@@ -1,0 +1,64 @@
+body{
+  background-image: url("../img/sfondo.jpg");
+}
+#logo{
+  height: 100px;
+  vertical-align: middle;
+
+}
+
+#container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+header{
+  color: white;
+  font-size: 25px;
+}
+
+#cerchio{
+  background: orange;
+    padding: 5px 7px;
+    border-radius: 50%;
+    font-size: 35px;
+
+
+}
+
+#unread{
+  margin-top: 10px;
+
+}
+
+#testo{
+  color: black;
+}
+
+.sezione{
+  background-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black
+
+}
+
+.nonletta{
+  background-color: lightgrey;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black
+
+}
+
+#testo2{
+  font-size: 20px;
+  font-color: grey;
+
+}
+
+footer{
+  text-align: center;
+  font-size: 20px;
+
+}
